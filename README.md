@@ -11,9 +11,9 @@ in [GRASS GIS](https://grass.osgeo.org/).
 Used to 3D print the models for the art installation
 [Shifting Datum](http://baharmon.github.io/project/shifting-datum).
 
-![Sea level rise simulation for New Orleans](/images/shaded_sea_level_rise.gif)
-
 ![3D printed model of New Orleans](/images/shifting-datum-1-1.jpg)
+
+![Sea level rise simulation for New Orleans](/images/shaded_sea_level_rise.gif)
 
 ## Data
 Download the
