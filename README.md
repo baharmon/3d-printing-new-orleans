@@ -1,7 +1,7 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2542921.svg)]()
 
-# #D Printing New Orleans
+# 3D Printing New Orleans
 Code, data, and models for 3D printing a model of New Orleans
 from the U.S. Army Corps of Engineers 2012 Lidar Survey of New Orleans.
 Python scripts
