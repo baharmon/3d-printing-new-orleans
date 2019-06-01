@@ -22,13 +22,5 @@ Download the
 ## Models
 [Sketchfab Repository](https://skfb.ly/6KSUo)
 
-<iframe width="640" height="480" src="https://sketchfab.com/playlists/embed?collection=23ad860310aa423a8d0b7d9606316355" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/lsu-landscape-architecture/collections/3d-printing-new-orleans?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">3D Printing New Orleans</a>
-    by <a href="https://sketchfab.com/lsu-landscape-architecture?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">LSU Landscape Architecture</a>
-    on <a href="https://sketchfab.com?utm_source=website&utm_medium=embed&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
-</p>
-
 ## License
 GNU General Public License Version 2
