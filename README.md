@@ -15,7 +15,7 @@ Used to 3D print the models for the art installation
 
 ## Data
 Download the
-[U.S. Army Corps of Engineers 2012 Lidar Survey of New Orleans](https://coast.noaa.gov/htdata/lidar2_z/geoid12b/data/6350/).
+[U.S. Army Corps of Engineers 2012 Lidar Survey of New Orleans](https://noaa-nos-coastal-lidar-pds.s3.amazonaws.com/laz/geoid18/6350/index.html).
 
 ## Models
 [Sketchfab Repository](https://skfb.ly/6KSUo)
